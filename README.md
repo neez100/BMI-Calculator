@@ -1,2 +1,2 @@
 # BMI Calculator
-Project apps & Stuff
+Body-mass Index Calculator (GUI - swing)
