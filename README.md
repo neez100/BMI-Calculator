@@ -1,2 +1,2 @@
-# DOPE_SHI
+# BMI Calculator
 Project apps & Stuff
